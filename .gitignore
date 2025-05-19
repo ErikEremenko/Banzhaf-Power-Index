@@ -1,6 +1,8 @@
-CMakeFiles/
+CMakeFiles/*
+CMakeFiles
 CMakeCache.txt
-cmake_build-debug/
+cmake_build-debug/*
+cmake-build-debug
 cmake_install.cmake
 install_manifest.txt
 Makefile

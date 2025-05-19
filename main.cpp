@@ -9,7 +9,7 @@ void print_results(std::vector<int> participant_weights, int quorum) {
     std::vector<double> rel_banzhaf_indices = calculateBanzhaf(participant_weights, quorum);
 
     std::cout << "Quorum: " << quorum << std::endl;
-    std::cout << "Participant weigths: ";
+    std::cout << "Participant weights: ";
     for (int w : participant_weights) {
         std::cout << w << ' ';
     };
