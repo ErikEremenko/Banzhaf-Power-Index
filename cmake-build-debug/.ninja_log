@@ -1,0 +1,24 @@
+# ninja log v6
+79	494	1747620177768604129	CMakeFiles/banzhaf_pow.dir/calculations.cpp.o	97607d376e1726af
+155	659	1747620026071564849	CMakeFiles/banzhaf_pow.dir/main.cpp.o	20bd3e580a2741d9
+73	79	1747620177762068388	CMakeFiles/banzhaf_pow.dir/calculations.cpp.o.modmap	f462e3177e844f27
+73	79	1747620177762068388	CMakeFiles/banzhaf_pow.dir/main.cpp.o.modmap	f462e3177e844f27
+73	79	1747620177762068388	CMakeFiles/banzhaf_pow.dir/CXX.dd	f462e3177e844f27
+1	73	1747620177690068795	CMakeFiles/banzhaf_pow.dir/calculations.cpp.o.ddi	a082036185785e0a
+494	593	1747620178183066009	banzhaf_pow	eca86b28690dd645
+73	79	1747620177762068388	/home/vespucci/tum/modsim/code/banzhaf_pow/cmake-build-debug/CMakeFiles/banzhaf_pow.dir/CXXModules.json	f462e3177e844f27
+15	150	1747620025930926382	CMakeFiles/banzhaf_pow.dir/main.cpp.o.ddi	b3b8c8ea620de6eb
+2	112	1747620215460062762	CMakeFiles/banzhaf_pow.dir/main.cpp.o.ddi	b3b8c8ea620de6eb
+112	119	1747620215569854728	CMakeFiles/banzhaf_pow.dir/CXX.dd	f462e3177e844f27
+112	119	1747620215569854728	/home/vespucci/tum/modsim/code/banzhaf_pow/cmake-build-debug/CMakeFiles/banzhaf_pow.dir/CXXModules.json	f462e3177e844f27
+112	119	1747620215569854728	CMakeFiles/banzhaf_pow.dir/main.cpp.o.modmap	f462e3177e844f27
+112	119	1747620215569854728	CMakeFiles/banzhaf_pow.dir/calculations.cpp.o.modmap	f462e3177e844f27
+120	645	1747620215577854682	CMakeFiles/banzhaf_pow.dir/main.cpp.o	20bd3e580a2741d9
+645	715	1747620216103851710	banzhaf_pow	eca86b28690dd645
+11	263	1747620279923491078	CMakeFiles/banzhaf_pow.dir/main.cpp.o.ddi	b3b8c8ea620de6eb
+264	271	1747620280176489648	CMakeFiles/banzhaf_pow.dir/CXX.dd	f462e3177e844f27
+264	271	1747620280176489648	/home/vespucci/tum/modsim/code/banzhaf_pow/cmake-build-debug/CMakeFiles/banzhaf_pow.dir/CXXModules.json	f462e3177e844f27
+264	271	1747620280176489648	CMakeFiles/banzhaf_pow.dir/main.cpp.o.modmap	f462e3177e844f27
+264	271	1747620280176489648	CMakeFiles/banzhaf_pow.dir/calculations.cpp.o.modmap	f462e3177e844f27
+271	819	1747620280183489609	CMakeFiles/banzhaf_pow.dir/main.cpp.o	20bd3e580a2741d9
+819	926	1747620280731486512	banzhaf_pow	eca86b28690dd645
